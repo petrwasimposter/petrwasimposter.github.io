@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 4px solid blue;
+    border-radius: 5px;
+    color: darkblue;
+    padding: 15px;
+}
+.cion{
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: 1px;
+    margin: 5px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: darkblue;
+}
+h2{
+    text-transform: uppercase;
+    color: darkblue;
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+    footer{
+           background-color: burlywood;
+    padding: 10px;
+    } 
+    nav a{
+       margin: 5px;
+       padding: 5px;
+       background-color: blue;
+       color: white;
+       text-align: center;
+       text-decoration: 1px;
+       border-radius: 10px;
+       padding-bottom: 5px;
+    }
+    nav{
+        margin: 15px;
+        text-align: center;
+    }
+    .kgds{
+    background-color: lightgreen;
+    padding: 10px;
+    }
+    .gg{
+        text-decoration: 21px;
+    }
